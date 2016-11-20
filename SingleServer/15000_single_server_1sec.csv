@@ -1,0 +1,3 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,KB/sec,Avg. Bytes
+Home Page,15000,4226,906,64361,6380.99,78.83%,210.1,291.50,1421.0
+TOTAL,15000,4226,906,64361,6380.99,78.83%,210.1,291.50,1421.0
